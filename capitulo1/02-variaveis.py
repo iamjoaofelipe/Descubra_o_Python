@@ -19,3 +19,13 @@ def AlgumaFuncao():
 
 AlgumaFuncao()
 print(f)
+
+# Função que retorna um valor
+
+def cubo(x):
+    return x * x* x
+
+f = cubo(3)
+print(f)
+
+

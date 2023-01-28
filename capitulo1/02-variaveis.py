@@ -25,7 +25,7 @@ print(f)
 def cubo(x):
     return x * x* x
 
-f = cubo(3)
+f = cubo(4)
 print(f)
 
 
